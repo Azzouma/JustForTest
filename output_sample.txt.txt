@@ -1,0 +1,9 @@
+$ javac RSA.java
+$ java RSA
+ 
+Enter the plain text:
+Sanfoundry
+Encrypting String: Sanfoundry
+String in Bytes: 8397110102111117110100114121
+Decrypting Bytes: 8397110102111117110100114121
+Decrypted String: Sanfoundry
